@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="" tv-test="VE.m3u"
 #EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://i2.paste.pics/84dae4a003b365e9b71ea1c50eb61c21.png", + Listas en M3U.CL * | CL
 https://vdo2.streamgato.us:3656/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="92" tvg-name="La 1 de TVE", La 1 de Tve
+#EXTINF:-1 tvg-id="92" tvg-name="24 HTVE", 24 HTVE
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-#EXTINF:-1 tvg-id="95" tvg-name="Nubeh TV", Nubeh TV 
+#EXTINF:-1 tvg-id="95" tvg-name="La 1 de TVE", La 1 de TVE 
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1 tvg-id="926" tvg-name="Oxigeno Network" tvg-logo="https://i2.paste.pics/ef1ca23d4134cf47e55c3092fae7e513.png", Oxigeno Network * | VE
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="926" tvg-name="DW" , DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", Panavision * | VE
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://lh3.googleusercontent.com/-EpqNmGFV2ow/X3Y6qotdhkI/AAAAAAAA6H0/3URfX759g_ow54BVCcOG1NI30SOvlAZ0QCK8BGAsYHg/s0/2020-10-01.png", Canal Once Del Zulia | VE
