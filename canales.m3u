@@ -7,10 +7,10 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-id="926" tvg-name="Canal Capital" , Canal Capital
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", Panavision * | VE
-https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://lh3.googleusercontent.com/-EpqNmGFV2ow/X3Y6qotdhkI/AAAAAAAA6H0/3URfX759g_ow54BVCcOG1NI30SOvlAZ0QCK8BGAsYHg/s0/2020-10-01.png", Canal Once Del Zulia | VE
-http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="924" tvg-name="Panamericana" , Panamericana
+https://cdnh71.iblups.com/hls/ptv2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="143" tvg-name="Telefe", Telefe
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="144" tvg-name="Catatumbo TV" tvg-logo="https://lh3.googleusercontent.com/-rHFloKz5ypo/XzgNbcFRQgI/AAAAAAAA4Q8/4nKRXr3B33A4BFXqIpCAx6uBfDaDGlnHwCK8BGAsYHg/s0/2020-08-15.png", Catatumbo TV | VE
 http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://lh3.googleusercontent.com/-9BWoKXWGkL8/Xxzv1rANFBI/AAAAAAAA3aw/DiZRzBM-OpgDJ_m32kNsUqCXr9qBjincgCK8BGAsYHg/s0/2020-07-25.png", Promar TV | VE
