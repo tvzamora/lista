@@ -11,14 +11,8 @@ https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3
 https://cdnh71.iblups.com/hls/ptv2.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="143" tvg-name="Telefe", Telefe
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="144" tvg-name="Catatumbo TV" tvg-logo="https://lh3.googleusercontent.com/-rHFloKz5ypo/XzgNbcFRQgI/AAAAAAAA4Q8/4nKRXr3B33A4BFXqIpCAx6uBfDaDGlnHwCK8BGAsYHg/s0/2020-08-15.png", Catatumbo TV | VE
-http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://lh3.googleusercontent.com/-9BWoKXWGkL8/Xxzv1rANFBI/AAAAAAAA3aw/DiZRzBM-OpgDJ_m32kNsUqCXr9qBjincgCK8BGAsYHg/s0/2020-07-25.png", Promar TV | VE
-http://vcp1.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="147" tvg-name="Reforma TV" tvg-logo="https://lh3.googleusercontent.com/-9oxffsN2uIM/Xxzv8htqa6I/AAAAAAAA3a0/1hQeXtqRNrc1bIvJuaDBn6PGaMoPNGaWACK8BGAsYHg/s0/2020-07-25.png", Reforma TV | VE
-https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="148" tvg-name="Telearagua" tvg-logo="https://lh3.googleusercontent.com/-EU-nUtiQqs4/XxuEMjQ5PYI/AAAAAAAA3TQ/pSYeFGaagSEqIx-VKMWUhzLipnXzD3qiQCK8BGAsYHg/s0/2020-07-24.png", Telearagua | VE
-http://190.205.43.236:8080/hls/nginx.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="144" tvg-name="SBT" , SBT
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="149" tvg-name="Televen" tvg-logo="https://lh3.googleusercontent.com/-nBbGq_RWnok/X0qS8YPABSI/AAAAAAAA5Dc/32KE05nln3QG3b_qRZ6hXqDG8CEYtTO2wCK8BGAsYHg/s0/2020-08-29.jpg", Televen | VE
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="150" tvg-name="TLT" tvg-logo="https://lh3.googleusercontent.com/-Bqe9dITrTQg/XxzwInUx4II/AAAAAAAA3a4/5U6cSU5Zo687qn4p5Etiv_BfzD5tRGBegCK8BGAsYHg/s0/2020-07-25.png", TLT | VE
