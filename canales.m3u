@@ -5,8 +5,8 @@ https://vdo2.streamgato.us:3656/hybrid/play.m3u8?PlaylistM3UCL
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 tvg-id="95" tvg-name="La 1 de TVE", La 1 de TVE 
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1 tvg-id="926" tvg-name="24 h France" , 24 H France
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="926" tvg-name="Canal Capital" , Canal Capital
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", Panavision * | VE
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://lh3.googleusercontent.com/-EpqNmGFV2ow/X3Y6qotdhkI/AAAAAAAA6H0/3URfX759g_ow54BVCcOG1NI30SOvlAZ0QCK8BGAsYHg/s0/2020-10-01.png", Canal Once Del Zulia | VE
