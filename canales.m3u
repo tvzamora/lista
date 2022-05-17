@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="" tv-test="VE.m3u"
 EXTINF:-1 tvg-id="92" tvg-name="24 HTVE", 24 HTVE
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+https://drive.google.com/file/d/1YobX8I_hVfQIK7ebY3gHgyFC_6-I7mDz/view?usp=sharing
 #EXTINF:-1 tvg-id="95" tvg-name="La 1 de TVE", La 1 de TVE 
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-id="926" tvg-name="Canal Capital" , Canal Capital
