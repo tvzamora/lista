@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="" tv-test="VE.m3u"
 #EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://i2.paste.pics/84dae4a003b365e9b71ea1c50eb61c21.png", + Listas en M3U.CL * | CL
 https://vdo2.streamgato.us:3656/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="92" tvg-name="Prueba", Prueba
-https://drive.google.com/file/d/1YobX8I_hVfQIK7ebY3gHgyFC_6-I7mDz/view?usp=sharing
 EXTINF:-1 tvg-id="92" tvg-name="24 HTVE", 24 HTVE
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 tvg-id="95" tvg-name="La 1 de TVE", La 1 de TVE 
